@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The web application uses the lates OpenAI's API to create a lyrics generator, image generator, and movie recommendation system. Streamlit was used create the web interface.
+The web application uses the lates OpenAI's API to create a lyrics generator, image generator, and movie recommendation system. Streamlit was used to create the web interface.
 
 [![project-openai](https://img.youtube.com/vi/MliHRrp4v-E/0.jpg)](https://youtu.be/MliHRrp4v-E)
 
