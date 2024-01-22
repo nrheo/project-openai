@@ -1,4 +1,4 @@
-# project-openai
+# OpenAI Web App
 
 ## Introduction
 
